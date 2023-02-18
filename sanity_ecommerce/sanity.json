@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": "rodsivler"
   },
   "api": {
-    "projectId": "vfxfwnaw",
+    "projectId": "u7aryzix",
     "dataset": "production"
   },
   "plugins": [
